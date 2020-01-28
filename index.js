@@ -40,4 +40,4 @@ var funkyFunction = function() {
 var theFunk = function funkyFunction() {
   return "FUNKY";
 }
-theFunk();
+theFunk;
