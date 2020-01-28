@@ -3,6 +3,7 @@ var animal = 'dog'
 function myAnimal(animal) {
   return animal;
 }
+myAnimal("dog");
 
 function yourAnimal(animal) {
   // How can we make sure that this function
@@ -11,6 +12,7 @@ function yourAnimal(animal) {
 
   return animal;
 }
+yourAnimal("cat");
 
 function add2(n) {
   return n + two
