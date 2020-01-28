@@ -46,4 +46,3 @@ var theFunk = function funkyFunction() {
 	}
 
 }
-
